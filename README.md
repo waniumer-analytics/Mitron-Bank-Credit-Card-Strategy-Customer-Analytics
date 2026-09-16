@@ -47,10 +47,12 @@ A data-driven customer analytics and product strategy project for **Mitron Bank*
 3. Python – EDA and analytical validation.
 4. SQL  – Data analysis and KPI generation.
 
-# VIDEO LINK : - 
+# LINKS 
 
-# LINKEDIN :- 
+1. VIDEO LINK : - 
 
-## AUTHOR
+2. LINKEDIN :- 
 
-# WANI UMER  DATA ANALYST.
+# AUTHOR
+
+1. WANI UMER  DATA ANALYST.
