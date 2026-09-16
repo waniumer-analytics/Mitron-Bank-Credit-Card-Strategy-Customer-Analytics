@@ -1,7 +1,5 @@
                                              ## Mitron-Bank-Credit-Card-Strategy-Customer-Analytics
 
-                                                     ## Project Overview
-
 A data-driven customer analytics and product strategy project for **Mitron Bank**, focused on identifying high-potential customer segments and recommending a credit-card proposition based on customer spending behaviour.
 
 
@@ -49,7 +47,7 @@ A data-driven customer analytics and product strategy project for **Mitron Bank*
 
 # LINKS 
 
-1. VIDEO LINK : - 
+1. VIDEO LINK : -    https://youtu.be/OCCN9Ofbktc 
 
 2. LINKEDIN :- 
 
